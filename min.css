@@ -1,0 +1,3 @@
+.note > .title, .tip > .title, .warning > .title { font-weight: bold;}
+.note, .tip, .warning { margin: 1rem 2rem; }
+.footnote-ref { vertical-align: super; font-size: .8rem; }
